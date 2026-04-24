@@ -6,5 +6,9 @@
   {
     "package": "spbtest5",
     "url": "https://github.com/Bioconductor/spbtest5"
+  },
+  {
+    "package": "LoriTestPkg4",
+    "url": "https://github.com/BiocStaging/LoriTestPkg4"
   }
 ]
