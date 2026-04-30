@@ -10,9 +10,5 @@
   {
     "package": "LoriPkgTest2",
     "url": "https://github.com/BiocStaging/LoriPkgTest2"
-  },
-  {
-    "package": "LoriTestPkg4",
-    "url": "https://github.com/BiocStaging/LoriTestPkg4"
   }
 ]
