@@ -14,5 +14,9 @@
   {
     "package": "MultipleAlignment",
     "url": "https://github.com/BiocStaging/MultipleAlignment"
+  },
+  {
+    "package": "ontoProc2",
+    "url": "https://github.com/BiocStaging/ontoProc2"
   }
 ]
