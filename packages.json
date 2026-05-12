@@ -18,5 +18,9 @@
   {
     "package": "ontoProc2",
     "url": "https://github.com/BiocStaging/ontoProc2"
+  },
+  {
+    "package": "GO.ddb",
+    "url": "https://github.com/BiocStaging/GO.ddb"
   }
 ]
