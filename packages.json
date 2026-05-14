@@ -8,10 +8,6 @@
     "url": "https://github.com/Bioconductor/spbtest5"
   },
   {
-    "package": "LoriPkgTest2",
-    "url": "https://github.com/BiocStaging/LoriPkgTest2"
-  },
-  {
     "package": "MultipleAlignment",
     "url": "https://github.com/BiocStaging/MultipleAlignment"
   },
