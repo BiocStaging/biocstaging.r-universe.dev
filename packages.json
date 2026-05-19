@@ -22,5 +22,9 @@
   {
     "package": "TxParq.Hs.gencode.v49",
     "url": "https://github.com/BiocStaging/TxParq.Hs.gencode.v49"
+  },
+  {
+    "package": "iSEEid",
+    "url": "https://github.com/BiocStaging/iSEEid"
   }
 ]
