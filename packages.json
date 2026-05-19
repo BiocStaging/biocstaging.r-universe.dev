@@ -26,5 +26,9 @@
   {
     "package": "iSEEid",
     "url": "https://github.com/BiocStaging/iSEEid"
+  },
+  {
+    "package": "EMMA",
+    "url": "https://github.com/BiocStaging/EMMA"
   }
 ]
