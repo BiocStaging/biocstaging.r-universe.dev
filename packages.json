@@ -34,5 +34,9 @@
   {
     "package": "spatialdataR",
     "url": "https://github.com/BiocStaging/spatialdataR"
+  },
+  {
+    "package": "pgen2gds",
+    "url": "https://github.com/BiocStaging/pgen2gds"
   }
 ]
