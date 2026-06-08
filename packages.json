@@ -54,5 +54,9 @@
   {
     "package": "grayleafspotr",
     "url": "https://github.com/BiocStaging/grayleafspotr"
+  },
+  {
+    "package": "TiDEomics",
+    "url": "https://github.com/BiocStaging/TiDEomics"
   }
 ]
