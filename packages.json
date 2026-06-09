@@ -86,5 +86,9 @@
   {
     "package": "IntegratedLearner",
     "url": "https://github.com/BiocStaging/IntegratedLearner"
+  },
+  {
+    "package": "scCompoundDE",
+    "url": "https://github.com/BiocStaging/scCompoundDE"
   }
 ]
