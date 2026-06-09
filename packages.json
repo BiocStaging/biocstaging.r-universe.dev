@@ -78,5 +78,9 @@
   {
     "package": "epiwraps",
     "url": "https://github.com/BiocStaging/epiwraps"
+  },
+  {
+    "package": "DAssemble",
+    "url": "https://github.com/BiocStaging/DAssemble"
   }
 ]
