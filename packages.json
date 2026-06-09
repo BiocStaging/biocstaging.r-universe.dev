@@ -62,5 +62,9 @@
   {
     "package": "bHIVE",
     "url": "https://github.com/BiocStaging/bHIVE"
+  },
+  {
+    "package": "MetaPathNet",
+    "url": "https://github.com/BiocStaging/MetaPathNet"
   }
 ]
