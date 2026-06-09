@@ -90,5 +90,9 @@
   {
     "package": "scCompoundDE",
     "url": "https://github.com/BiocStaging/scCompoundDE"
+  },
+  {
+    "package": "geneslator",
+    "url": "https://github.com/BiocStaging/geneslator"
   }
 ]
