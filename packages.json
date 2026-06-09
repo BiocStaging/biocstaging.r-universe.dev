@@ -94,5 +94,9 @@
   {
     "package": "geneslator",
     "url": "https://github.com/BiocStaging/geneslator"
+  },
+  {
+    "package": "MultiOmicsBridge",
+    "url": "https://github.com/BiocStaging/MultiOmicsBridge"
   }
 ]
