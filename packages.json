@@ -82,5 +82,9 @@
   {
     "package": "DAssemble",
     "url": "https://github.com/BiocStaging/DAssemble"
+  },
+  {
+    "package": "IntegratedLearner",
+    "url": "https://github.com/BiocStaging/IntegratedLearner"
   }
 ]
