@@ -98,5 +98,9 @@
   {
     "package": "MultiOmicsBridge",
     "url": "https://github.com/BiocStaging/MultiOmicsBridge"
+  },
+  {
+    "package": "rvarsim",
+    "url": "https://github.com/BiocStaging/rvarsim"
   }
 ]
