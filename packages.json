@@ -102,5 +102,9 @@
   {
     "package": "polyICSFlow",
     "url": "https://github.com/BiocStaging/polyICSFlow"
+  },
+  {
+    "package": "CMEnt",
+    "url": "https://github.com/BiocStaging/CMEnt"
   }
 ]
