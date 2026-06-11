@@ -28,10 +28,6 @@
     "url": "https://github.com/BiocStaging/EMMA"
   },
   {
-    "package": "KEGGemUP",
-    "url": "https://github.com/BiocStaging/KEGGemUP"
-  },
-  {
     "package": "spatialdataR",
     "url": "https://github.com/BiocStaging/spatialdataR"
   },
