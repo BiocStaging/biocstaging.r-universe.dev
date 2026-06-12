@@ -106,5 +106,9 @@
   {
     "package": "CMEnt",
     "url": "https://github.com/BiocStaging/CMEnt"
+  },
+  {
+    "package": "LIPIDIFy",
+    "url": "https://github.com/BiocStaging/LIPIDIFy"
   }
 ]
