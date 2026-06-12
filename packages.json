@@ -32,10 +32,6 @@
     "url": "https://github.com/BiocStaging/spatialdataR"
   },
   {
-    "package": "pgen2gds",
-    "url": "https://github.com/BiocStaging/pgen2gds"
-  },
-  {
     "package": "gesel",
     "url": "https://github.com/BiocStaging/gesel"
   },
