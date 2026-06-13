@@ -110,5 +110,9 @@
   {
     "package": "dbSequence",
     "url": "https://github.com/BiocStaging/dbSequence"
+  },
+  {
+    "package": "gdscloud",
+    "url": "https://github.com/BiocStaging/gdscloud"
   }
 ]
