@@ -114,5 +114,9 @@
   {
     "package": "sciNOME",
     "url": "https://github.com/BiocStaging/sciNOME"
+  },
+  {
+    "package": "loopcityData",
+    "url": "https://github.com/BiocStaging/loopcityData"
   }
 ]
