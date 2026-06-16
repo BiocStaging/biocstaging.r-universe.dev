@@ -118,5 +118,9 @@
   {
     "package": "loopcityData",
     "url": "https://github.com/BiocStaging/loopcityData"
+  },
+  {
+    "package": "MOTL",
+    "url": "https://github.com/BiocStaging/MOTL"
   }
 ]
