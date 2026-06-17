@@ -122,5 +122,9 @@
   {
     "package": "MOTL",
     "url": "https://github.com/BiocStaging/MOTL"
+  },
+  {
+    "package": "pepitope",
+    "url": "https://github.com/BiocStaging/pepitope"
   }
 ]
