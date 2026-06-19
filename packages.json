@@ -130,5 +130,9 @@
   {
     "package": "PACMOSData",
     "url": "https://github.com/BiocStaging/PACMOSData"
+  },
+  {
+    "package": "reglScatterplotR",
+    "url": "https://github.com/BiocStaging/reglScatterplotR"
   }
 ]
