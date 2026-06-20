@@ -134,5 +134,9 @@
   {
     "package": "reglScatterplotR",
     "url": "https://github.com/BiocStaging/reglScatterplotR"
+  },
+  {
+    "package": "CySA",
+    "url": "https://github.com/BiocStaging/CySA"
   }
 ]
