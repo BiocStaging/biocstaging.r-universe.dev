@@ -24,10 +24,6 @@
     "url": "https://github.com/BiocStaging/spatialdataR"
   },
   {
-    "package": "gesel",
-    "url": "https://github.com/BiocStaging/gesel"
-  },
-  {
     "package": "MsBackendMassIVE",
     "url": "https://github.com/BiocStaging/MsBackendMassIVE"
   },
