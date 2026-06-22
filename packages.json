@@ -138,5 +138,9 @@
   {
     "package": "CySA",
     "url": "https://github.com/BiocStaging/CySA"
+  },
+  {
+    "package": "karioCaS",
+    "url": "https://github.com/BiocStaging/karioCaS"
   }
 ]
