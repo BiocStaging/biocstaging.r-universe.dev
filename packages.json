@@ -142,5 +142,9 @@
   {
     "package": "scOverlay",
     "url": "https://github.com/BiocStaging/scOverlay"
+  },
+  {
+    "package": "GPlinksR",
+    "url": "https://github.com/BiocStaging/GPlinksR"
   }
 ]
