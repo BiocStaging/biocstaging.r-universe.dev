@@ -150,5 +150,9 @@
   {
     "package": "MsStash",
     "url": "https://github.com/BiocStaging/MsStash"
+  },
+  {
+    "package": "consensusTADs",
+    "url": "https://github.com/BiocStaging/consensusTADs"
   }
 ]
