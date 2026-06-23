@@ -146,5 +146,9 @@
   {
     "package": "GPlinksR",
     "url": "https://github.com/BiocStaging/GPlinksR"
+  },
+  {
+    "package": "MsStash",
+    "url": "https://github.com/BiocStaging/MsStash"
   }
 ]
