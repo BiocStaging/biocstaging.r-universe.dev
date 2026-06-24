@@ -154,5 +154,9 @@
   {
     "package": "consensusTADs",
     "url": "https://github.com/BiocStaging/consensusTADs"
+  },
+  {
+    "package": "woven",
+    "url": "https://github.com/BiocStaging/woven"
   }
 ]
