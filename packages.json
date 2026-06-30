@@ -162,5 +162,9 @@
   {
     "package": "tTEscanR",
     "url": "https://github.com/BiocStaging/tTEscanR"
+  },
+  {
+    "package": "MsBackendMetabolomicsWorkbench",
+    "url": "https://github.com/BiocStaging/MsBackendMetabolomicsWorkbench"
   }
 ]
