@@ -170,5 +170,9 @@
   {
     "package": "scCertify",
     "url": "https://github.com/BiocStaging/scCertify"
+  },
+  {
+    "package": "PTMsToPathwaysData",
+    "url": "https://github.com/BiocStaging/PTMsToPathwaysData"
   }
 ]
