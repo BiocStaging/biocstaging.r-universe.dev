@@ -166,5 +166,9 @@
   {
     "package": "MsBackendMetabolomicsWorkbench",
     "url": "https://github.com/BiocStaging/MsBackendMetabolomicsWorkbench"
+  },
+  {
+    "package": "scCertify",
+    "url": "https://github.com/BiocStaging/scCertify"
   }
 ]
