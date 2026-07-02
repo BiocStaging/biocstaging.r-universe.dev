@@ -174,5 +174,9 @@
   {
     "package": "PTMsToPathwaysData",
     "url": "https://github.com/BiocStaging/PTMsToPathwaysData"
+  },
+  {
+    "package": "inferRecom",
+    "url": "https://github.com/BiocStaging/inferRecom"
   }
 ]
