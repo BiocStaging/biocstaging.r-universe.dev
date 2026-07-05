@@ -182,5 +182,9 @@
   {
     "package": "GSE280465",
     "url": "https://github.com/BiocStaging/GSE280465"
+  },
+  {
+    "package": "GSE142512",
+    "url": "https://github.com/BiocStaging/GSE142512"
   }
 ]
