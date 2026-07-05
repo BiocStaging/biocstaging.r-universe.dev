@@ -178,5 +178,9 @@
   {
     "package": "inferRecom",
     "url": "https://github.com/BiocStaging/inferRecom"
+  },
+  {
+    "package": "GSE280465",
+    "url": "https://github.com/BiocStaging/GSE280465"
   }
 ]
