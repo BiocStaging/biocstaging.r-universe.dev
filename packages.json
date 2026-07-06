@@ -186,5 +186,9 @@
   {
     "package": "faissR",
     "url": "https://github.com/BiocStaging/faissR"
+  },
+  {
+    "package": "fastPLS",
+    "url": "https://github.com/BiocStaging/fastPLS"
   }
 ]
