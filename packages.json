@@ -72,10 +72,6 @@
     "url": "https://github.com/BiocStaging/geneslator"
   },
   {
-    "package": "MultiOmicsBridge",
-    "url": "https://github.com/BiocStaging/MultiOmicsBridge"
-  },
-  {
     "package": "rvarsim",
     "url": "https://github.com/BiocStaging/rvarsim"
   },
