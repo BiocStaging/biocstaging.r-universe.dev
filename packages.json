@@ -182,5 +182,9 @@
   {
     "package": "scMAGeCK",
     "url": "https://github.com/BiocStaging/scMAGeCK"
+  },
+  {
+    "package": "selexprepR",
+    "url": "https://github.com/BiocStaging/selexprepR"
   }
 ]
