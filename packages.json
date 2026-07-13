@@ -182,5 +182,9 @@
   {
     "package": "selexprepR",
     "url": "https://github.com/BiocStaging/selexprepR"
+  },
+  {
+    "package": "cellpaintr",
+    "url": "https://github.com/BiocStaging/cellpaintr"
   }
 ]
