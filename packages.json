@@ -186,5 +186,9 @@
   {
     "package": "cellpaintr",
     "url": "https://github.com/BiocStaging/cellpaintr"
+  },
+  {
+    "package": "QuickBLAST",
+    "url": "https://github.com/BiocStaging/QuickBLAST"
   }
 ]
