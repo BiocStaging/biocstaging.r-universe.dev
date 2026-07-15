@@ -194,5 +194,9 @@
   {
     "package": "OmicsLake",
     "url": "https://github.com/BiocStaging/OmicsLake"
+  },
+  {
+    "package": "pepVet",
+    "url": "https://github.com/BiocStaging/pepVet"
   }
 ]
