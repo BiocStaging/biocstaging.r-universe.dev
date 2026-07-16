@@ -202,5 +202,9 @@
   {
     "package": "ClinicalVariantR",
     "url": "https://github.com/BiocStaging/ClinicalVariantR"
+  },
+  {
+    "package": "multipletR",
+    "url": "https://github.com/BiocStaging/multipletR"
   }
 ]
