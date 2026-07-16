@@ -198,5 +198,9 @@
   {
     "package": "pepVet",
     "url": "https://github.com/BiocStaging/pepVet"
+  },
+  {
+    "package": "ClinicalVariantR",
+    "url": "https://github.com/BiocStaging/ClinicalVariantR"
   }
 ]
