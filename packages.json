@@ -20,10 +20,6 @@
     "url": "https://github.com/BiocStaging/spatialdataR"
   },
   {
-    "package": "MsBackendMassIVE",
-    "url": "https://github.com/BiocStaging/MsBackendMassIVE"
-  },
-  {
     "package": "SimiCviz",
     "url": "https://github.com/BiocStaging/SimiCviz"
   },
