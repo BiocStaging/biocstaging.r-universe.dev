@@ -198,5 +198,9 @@
   {
     "package": "multipletR",
     "url": "https://github.com/BiocStaging/multipletR"
+  },
+  {
+    "package": "mdclust",
+    "url": "https://github.com/BiocStaging/mdclust"
   }
 ]
