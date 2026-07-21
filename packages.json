@@ -202,5 +202,9 @@
   {
     "package": "mdclust",
     "url": "https://github.com/BiocStaging/mdclust"
+  },
+  {
+    "package": "SPAROscore",
+    "url": "https://github.com/BiocStaging/SPAROscore"
   }
 ]
