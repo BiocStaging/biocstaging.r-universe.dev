@@ -230,5 +230,9 @@
   {
     "package": "BiocDuckDB",
     "url": "https://github.com/BiocStaging/BiocDuckDB"
+  },
+  {
+    "package": "MultiAssaySpatialExperiment",
+    "url": "https://github.com/BiocStaging/MultiAssaySpatialExperiment"
   }
 ]
