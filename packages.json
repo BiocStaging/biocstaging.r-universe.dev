@@ -206,5 +206,9 @@
   {
     "package": "SPAROscore",
     "url": "https://github.com/BiocStaging/SPAROscore"
+  },
+  {
+    "package": "DgeaHeatmap",
+    "url": "https://github.com/BiocStaging/DgeaHeatmap"
   }
 ]
