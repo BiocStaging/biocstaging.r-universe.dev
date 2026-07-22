@@ -234,5 +234,9 @@
   {
     "package": "MultiAssaySpatialExperiment",
     "url": "https://github.com/BiocStaging/MultiAssaySpatialExperiment"
+  },
+  {
+    "package": "SpectraStash",
+    "url": "https://github.com/BiocStaging/SpectraStash"
   }
 ]
