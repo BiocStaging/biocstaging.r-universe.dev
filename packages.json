@@ -242,5 +242,9 @@
   {
     "package": "MRManalyzeR",
     "url": "https://github.com/BiocStaging/MRManalyzeR"
+  },
+  {
+    "package": "mesa",
+    "url": "https://github.com/BiocStaging/mesa"
   }
 ]
