@@ -250,5 +250,9 @@
   {
     "package": "ggwas",
     "url": "https://github.com/BiocStaging/ggwas"
+  },
+  {
+    "package": "quantMSImageR",
+    "url": "https://github.com/BiocStaging/quantMSImageR"
   }
 ]
