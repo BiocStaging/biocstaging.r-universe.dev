@@ -254,5 +254,9 @@
   {
     "package": "quantMSImageR",
     "url": "https://github.com/BiocStaging/quantMSImageR"
+  },
+  {
+    "package": "CyFj11",
+    "url": "https://github.com/BiocStaging/CyFj11"
   }
 ]
