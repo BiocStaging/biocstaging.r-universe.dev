@@ -116,10 +116,6 @@
     "url": "https://github.com/BiocStaging/scOverlay"
   },
   {
-    "package": "GPlinksR",
-    "url": "https://github.com/BiocStaging/GPlinksR"
-  },
-  {
     "package": "consensusTADs",
     "url": "https://github.com/BiocStaging/consensusTADs"
   },
