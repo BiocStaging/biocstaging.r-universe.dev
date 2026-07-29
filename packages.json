@@ -262,5 +262,9 @@
   {
     "package": "exploreSE",
     "url": "https://github.com/BiocStaging/exploreSE"
+  },
+  {
+    "package": "QFeaturesGUI",
+    "url": "https://github.com/BiocStaging/QFeaturesGUI"
   }
 ]
