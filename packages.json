@@ -262,5 +262,9 @@
   {
     "package": "QFeaturesGUI",
     "url": "https://github.com/BiocStaging/QFeaturesGUI"
+  },
+  {
+    "package": "normScore",
+    "url": "https://github.com/BiocStaging/normScore"
   }
 ]
