@@ -246,5 +246,9 @@
   {
     "package": "normScore",
     "url": "https://github.com/BiocStaging/normScore"
+  },
+  {
+    "package": "drugannotR",
+    "url": "https://github.com/BiocStaging/drugannotR"
   }
 ]
