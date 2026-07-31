@@ -88,10 +88,6 @@
     "url": "https://github.com/BiocStaging/pepitope"
   },
   {
-    "package": "multipointR",
-    "url": "https://github.com/BiocStaging/multipointR"
-  },
-  {
     "package": "PACMOSData",
     "url": "https://github.com/BiocStaging/PACMOSData"
   },
