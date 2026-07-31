@@ -32,10 +32,6 @@
     "url": "https://github.com/BiocStaging/bHIVE"
   },
   {
-    "package": "MetaPathNet",
-    "url": "https://github.com/BiocStaging/MetaPathNet"
-  },
-  {
     "package": "PlantTxDbHub",
     "url": "https://github.com/BiocStaging/PlantTxDbHub"
   },
