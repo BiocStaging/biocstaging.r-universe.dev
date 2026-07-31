@@ -48,10 +48,6 @@
     "url": "https://github.com/BiocStaging/IntegratedLearner"
   },
   {
-    "package": "geneslator",
-    "url": "https://github.com/BiocStaging/geneslator"
-  },
-  {
     "package": "rvarsim",
     "url": "https://github.com/BiocStaging/rvarsim"
   },
