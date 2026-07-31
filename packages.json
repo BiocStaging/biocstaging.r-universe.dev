@@ -250,5 +250,9 @@
   {
     "package": "drugannotR",
     "url": "https://github.com/BiocStaging/drugannotR"
+  },
+  {
+    "package": "RmzTabM",
+    "url": "https://github.com/BiocStaging/RmzTabM"
   }
 ]
