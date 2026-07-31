@@ -254,5 +254,9 @@
   {
     "package": "RmzTabM",
     "url": "https://github.com/BiocStaging/RmzTabM"
+  },
+  {
+    "package": "GeneSCARAB",
+    "url": "https://github.com/BiocStaging/GeneSCARAB"
   }
 ]
