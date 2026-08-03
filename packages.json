@@ -258,5 +258,9 @@
   {
     "package": "MagellanNTK",
     "url": "https://github.com/BiocStaging/MagellanNTK"
+  },
+  {
+    "package": "SwitchClass",
+    "url": "https://github.com/BiocStaging/SwitchClass"
   }
 ]
