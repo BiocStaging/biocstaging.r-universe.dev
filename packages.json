@@ -20,10 +20,6 @@
     "url": "https://github.com/BiocStaging/spatialdataR"
   },
   {
-    "package": "SimiCviz",
-    "url": "https://github.com/BiocStaging/SimiCviz"
-  },
-  {
     "package": "grayleafspotr",
     "url": "https://github.com/BiocStaging/grayleafspotr"
   },
