@@ -262,5 +262,9 @@
   {
     "package": "LongOmicsTraj",
     "url": "https://github.com/BiocStaging/LongOmicsTraj"
+  },
+  {
+    "package": "gDRplots",
+    "url": "https://github.com/BiocStaging/gDRplots"
   }
 ]
