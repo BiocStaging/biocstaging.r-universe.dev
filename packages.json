@@ -270,5 +270,9 @@
   {
     "package": "perturbMatchData",
     "url": "https://github.com/BiocStaging/perturbMatchData"
+  },
+  {
+    "package": "perturbMatch",
+    "url": "https://github.com/BiocStaging/perturbMatch"
   }
 ]
