@@ -266,5 +266,9 @@
   {
     "package": "gDRplots",
     "url": "https://github.com/BiocStaging/gDRplots"
+  },
+  {
+    "package": "perturbMatchData",
+    "url": "https://github.com/BiocStaging/perturbMatchData"
   }
 ]
