@@ -282,5 +282,9 @@
   {
     "package": "GENCODEHub",
     "url": "https://github.com/BiocStaging/GENCODEHub"
+  },
+  {
+    "package": "Protein2Tissue",
+    "url": "https://github.com/BiocStaging/Protein2Tissue"
   }
 ]
