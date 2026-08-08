@@ -184,10 +184,6 @@
     "url": "https://github.com/BiocStaging/DuckDBArray"
   },
   {
-    "package": "DuckDBGRanges",
-    "url": "https://github.com/BiocStaging/DuckDBGRanges"
-  },
-  {
     "package": "DuckDBSpatial",
     "url": "https://github.com/BiocStaging/DuckDBSpatial"
   },
