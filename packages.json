@@ -282,5 +282,9 @@
   {
     "package": "BatchVaria",
     "url": "https://github.com/BiocStaging/BatchVaria"
+  },
+  {
+    "package": "TxDb.Osativa.MSU.RGAP7",
+    "url": "https://github.com/BiocStaging/TxDb.Osativa.MSU.RGAP7"
   }
 ]
