@@ -290,5 +290,9 @@
   {
     "package": "cellchatr",
     "url": "https://github.com/BiocStaging/cellchatr"
+  },
+  {
+    "package": "ECLIPSE",
+    "url": "https://github.com/BiocStaging/ECLIPSE"
   }
 ]
