@@ -286,5 +286,9 @@
   {
     "package": "Protein2Tissue",
     "url": "https://github.com/BiocStaging/Protein2Tissue"
+  },
+  {
+    "package": "cellchatr",
+    "url": "https://github.com/BiocStaging/cellchatr"
   }
 ]
