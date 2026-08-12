@@ -306,5 +306,9 @@
   {
     "package": "fastEmbedR",
     "url": "https://github.com/BiocStaging/fastEmbedR"
+  },
+  {
+    "package": "hmagmaR",
+    "url": "https://github.com/BiocStaging/hmagmaR"
   }
 ]
