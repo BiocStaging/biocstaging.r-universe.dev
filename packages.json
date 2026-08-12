@@ -298,5 +298,9 @@
   {
     "package": "bppg",
     "url": "https://github.com/BiocStaging/bppg"
+  },
+  {
+    "package": "KODAMA",
+    "url": "https://github.com/BiocStaging/KODAMA"
   }
 ]
