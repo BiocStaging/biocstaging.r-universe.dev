@@ -294,5 +294,9 @@
   {
     "package": "ECLIPSE",
     "url": "https://github.com/BiocStaging/ECLIPSE"
+  },
+  {
+    "package": "bppg",
+    "url": "https://github.com/BiocStaging/bppg"
   }
 ]
