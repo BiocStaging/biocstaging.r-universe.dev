@@ -302,5 +302,9 @@
   {
     "package": "KODAMA",
     "url": "https://github.com/BiocStaging/KODAMA"
+  },
+  {
+    "package": "fastEmbedR",
+    "url": "https://github.com/BiocStaging/fastEmbedR"
   }
 ]
