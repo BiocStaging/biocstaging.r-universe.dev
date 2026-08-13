@@ -322,5 +322,9 @@
   {
     "package": "MiCARA",
     "url": "https://github.com/BiocStaging/MiCARA"
+  },
+  {
+    "package": "CorNetto",
+    "url": "https://github.com/BiocStaging/CorNetto"
   }
 ]
