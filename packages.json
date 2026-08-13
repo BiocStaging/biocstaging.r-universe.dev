@@ -318,5 +318,9 @@
   {
     "package": "circaTime",
     "url": "https://github.com/BiocStaging/circaTime"
+  },
+  {
+    "package": "MiCARA",
+    "url": "https://github.com/BiocStaging/MiCARA"
   }
 ]
