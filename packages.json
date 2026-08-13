@@ -314,5 +314,9 @@
   {
     "package": "iconic",
     "url": "https://github.com/BiocStaging/iconic"
+  },
+  {
+    "package": "circaTime",
+    "url": "https://github.com/BiocStaging/circaTime"
   }
 ]
