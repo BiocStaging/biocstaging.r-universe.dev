@@ -334,5 +334,9 @@
   {
     "package": "TxDb.Athaliana.Ensembl.TAIR10",
     "url": "https://github.com/BiocStaging/TxDb.Athaliana.Ensembl.TAIR10"
+  },
+  {
+    "package": "TxDb.Gmax.JGI.Gmv4",
+    "url": "https://github.com/BiocStaging/TxDb.Gmax.JGI.Gmv4"
   }
 ]
