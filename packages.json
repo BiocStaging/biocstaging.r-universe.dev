@@ -326,5 +326,9 @@
   {
     "package": "CorNetto",
     "url": "https://github.com/BiocStaging/CorNetto"
+  },
+  {
+    "package": "SpaMTPData",
+    "url": "https://github.com/BiocStaging/SpaMTPData"
   }
 ]
