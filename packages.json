@@ -338,5 +338,9 @@
   {
     "package": "TxDb.Gmax.JGI.Gmv4",
     "url": "https://github.com/BiocStaging/TxDb.Gmax.JGI.Gmv4"
+  },
+  {
+    "package": "remart",
+    "url": "https://github.com/BiocStaging/remart"
   }
 ]
