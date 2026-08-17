@@ -180,10 +180,6 @@
     "url": "https://github.com/BiocStaging/DgeaHeatmap"
   },
   {
-    "package": "DuckDBArray",
-    "url": "https://github.com/BiocStaging/DuckDBArray"
-  },
-  {
     "package": "DuckDBSpatial",
     "url": "https://github.com/BiocStaging/DuckDBSpatial"
   },
