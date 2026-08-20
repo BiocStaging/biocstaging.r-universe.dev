@@ -216,10 +216,6 @@
     "url": "https://github.com/BiocStaging/BreedingExperiment"
   },
   {
-    "package": "exploreSE",
-    "url": "https://github.com/BiocStaging/exploreSE"
-  },
-  {
     "package": "QFeaturesGUI",
     "url": "https://github.com/BiocStaging/QFeaturesGUI"
   },
