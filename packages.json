@@ -326,5 +326,9 @@
   {
     "package": "remart",
     "url": "https://github.com/BiocStaging/remart"
+  },
+  {
+    "package": "DEP",
+    "url": "https://github.com/BiocStaging/DEP"
   }
 ]
