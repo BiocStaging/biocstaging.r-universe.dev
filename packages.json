@@ -342,5 +342,9 @@
   {
     "package": "methylTFR",
     "url": "https://github.com/BiocStaging/methylTFR"
+  },
+  {
+    "package": "methylTFRAnnotationHg38",
+    "url": "https://github.com/BiocStaging/methylTFRAnnotationHg38"
   }
 ]
