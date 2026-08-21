@@ -338,5 +338,9 @@
   {
     "package": "SpaMTP",
     "url": "https://github.com/BiocStaging/SpaMTP"
+  },
+  {
+    "package": "methylTFR",
+    "url": "https://github.com/BiocStaging/methylTFR"
   }
 ]
