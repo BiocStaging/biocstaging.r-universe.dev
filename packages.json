@@ -334,5 +334,9 @@
   {
     "package": "SpaMTPdb",
     "url": "https://github.com/BiocStaging/SpaMTPdb"
+  },
+  {
+    "package": "SpaMTP",
+    "url": "https://github.com/BiocStaging/SpaMTP"
   }
 ]
