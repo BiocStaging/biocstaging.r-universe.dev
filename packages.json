@@ -330,5 +330,9 @@
   {
     "package": "DEP",
     "url": "https://github.com/BiocStaging/DEP"
+  },
+  {
+    "package": "SpaMTPdb",
+    "url": "https://github.com/BiocStaging/SpaMTPdb"
   }
 ]
