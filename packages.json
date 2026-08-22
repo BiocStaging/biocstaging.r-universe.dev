@@ -358,5 +358,9 @@
   {
     "package": "spatialDESeq",
     "url": "https://github.com/BiocStaging/spatialDESeq"
+  },
+  {
+    "package": "HuMMANet",
+    "url": "https://github.com/BiocStaging/HuMMANet"
   }
 ]
