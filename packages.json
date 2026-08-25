@@ -366,5 +366,9 @@
   {
     "package": "dmsa",
     "url": "https://github.com/BiocStaging/dmsa"
+  },
+  {
+    "package": "TweedSpot",
+    "url": "https://github.com/BiocStaging/TweedSpot"
   }
 ]
