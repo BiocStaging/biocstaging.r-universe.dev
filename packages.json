@@ -390,5 +390,9 @@
   {
     "package": "cpgdirection",
     "url": "https://github.com/BiocStaging/cpgdirection"
+  },
+  {
+    "package": "RAMEN",
+    "url": "https://github.com/BiocStaging/RAMEN"
   }
 ]
