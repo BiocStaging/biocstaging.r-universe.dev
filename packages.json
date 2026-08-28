@@ -378,5 +378,9 @@
   {
     "package": "saintexpress",
     "url": "https://github.com/BiocStaging/saintexpress"
+  },
+  {
+    "package": "prolfqua",
+    "url": "https://github.com/BiocStaging/prolfqua"
   }
 ]
