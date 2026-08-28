@@ -386,5 +386,9 @@
   {
     "package": "cpgdirectionData",
     "url": "https://github.com/BiocStaging/cpgdirectionData"
+  },
+  {
+    "package": "cpgdirection",
+    "url": "https://github.com/BiocStaging/cpgdirection"
   }
 ]
