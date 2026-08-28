@@ -378,5 +378,9 @@
   {
     "package": "prolfqua",
     "url": "https://github.com/BiocStaging/prolfqua"
+  },
+  {
+    "package": "DiPPER",
+    "url": "https://github.com/BiocStaging/DiPPER"
   }
 ]
