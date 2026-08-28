@@ -16,10 +16,6 @@
     "url": "https://github.com/BiocStaging/TxParq.Hs.gencode.v49"
   },
   {
-    "package": "spatialdataR",
-    "url": "https://github.com/BiocStaging/spatialdataR"
-  },
-  {
     "package": "grayleafspotr",
     "url": "https://github.com/BiocStaging/grayleafspotr"
   },
