@@ -382,5 +382,9 @@
   {
     "package": "RAMEN",
     "url": "https://github.com/BiocStaging/RAMEN"
+  },
+  {
+    "package": "sceptre",
+    "url": "https://github.com/BiocStaging/sceptre"
   }
 ]
