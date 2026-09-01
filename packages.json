@@ -386,5 +386,9 @@
   {
     "package": "sceptre",
     "url": "https://github.com/BiocStaging/sceptre"
+  },
+  {
+    "package": "GeneTrackR",
+    "url": "https://github.com/BiocStaging/GeneTrackR"
   }
 ]
