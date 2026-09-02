@@ -390,5 +390,9 @@
   {
     "package": "GeneTrackR",
     "url": "https://github.com/BiocStaging/GeneTrackR"
+  },
+  {
+    "package": "epiPortrait",
+    "url": "https://github.com/BiocStaging/epiPortrait"
   }
 ]
