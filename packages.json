@@ -394,5 +394,9 @@
   {
     "package": "epiPortrait",
     "url": "https://github.com/BiocStaging/epiPortrait"
+  },
+  {
+    "package": "savingBiocObjects",
+    "url": "https://github.com/BiocStaging/savingBiocObjects"
   }
 ]
