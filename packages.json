@@ -402,5 +402,9 @@
   {
     "package": "CanvasXpressBio",
     "url": "https://github.com/BiocStaging/CanvasXpressBio"
+  },
+  {
+    "package": "strainspy",
+    "url": "https://github.com/BiocStaging/strainspy"
   }
 ]
