@@ -398,5 +398,9 @@
   {
     "package": "savingBiocObjects",
     "url": "https://github.com/BiocStaging/savingBiocObjects"
+  },
+  {
+    "package": "CanvasXpressBio",
+    "url": "https://github.com/BiocStaging/CanvasXpressBio"
   }
 ]
