@@ -406,5 +406,9 @@
   {
     "package": "strainspy",
     "url": "https://github.com/BiocStaging/strainspy"
+  },
+  {
+    "package": "IntrinsicScan",
+    "url": "https://github.com/BiocStaging/IntrinsicScan"
   }
 ]
