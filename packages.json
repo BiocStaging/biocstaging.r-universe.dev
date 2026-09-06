@@ -172,10 +172,6 @@
     "url": "https://github.com/BiocStaging/BiocDuckDB"
   },
   {
-    "package": "SpectraStash",
-    "url": "https://github.com/BiocStaging/SpectraStash"
-  },
-  {
     "package": "MRManalyzeR",
     "url": "https://github.com/BiocStaging/MRManalyzeR"
   },
