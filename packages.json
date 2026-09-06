@@ -406,5 +406,9 @@
   {
     "package": "NADIA",
     "url": "https://github.com/BiocStaging/NADIA"
+  },
+  {
+    "package": "path2path",
+    "url": "https://github.com/BiocStaging/path2path"
   }
 ]
