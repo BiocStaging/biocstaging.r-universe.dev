@@ -402,5 +402,9 @@
   {
     "package": "path2path",
     "url": "https://github.com/BiocStaging/path2path"
+  },
+  {
+    "package": "scGenePanel",
+    "url": "https://github.com/BiocStaging/scGenePanel"
   }
 ]
