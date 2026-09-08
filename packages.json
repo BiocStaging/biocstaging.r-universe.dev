@@ -160,10 +160,6 @@
     "url": "https://github.com/BiocStaging/DgeaHeatmap"
   },
   {
-    "package": "BiocDuckDB",
-    "url": "https://github.com/BiocStaging/BiocDuckDB"
-  },
-  {
     "package": "MRManalyzeR",
     "url": "https://github.com/BiocStaging/MRManalyzeR"
   },
