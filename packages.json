@@ -398,5 +398,9 @@
   {
     "package": "scGenePanel",
     "url": "https://github.com/BiocStaging/scGenePanel"
+  },
+  {
+    "package": "GenomicDataStream",
+    "url": "https://github.com/BiocStaging/GenomicDataStream"
   }
 ]
