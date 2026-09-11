@@ -402,5 +402,9 @@
   {
     "package": "GenomicDataStream",
     "url": "https://github.com/BiocStaging/GenomicDataStream"
+  },
+  {
+    "package": "mgcca",
+    "url": "https://github.com/BiocStaging/mgcca"
   }
 ]
