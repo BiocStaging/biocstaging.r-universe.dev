@@ -406,5 +406,9 @@
   {
     "package": "mgcca",
     "url": "https://github.com/BiocStaging/mgcca"
+  },
+  {
+    "package": "consensusRegions",
+    "url": "https://github.com/BiocStaging/consensusRegions"
   }
 ]
