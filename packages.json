@@ -414,5 +414,9 @@
   {
     "package": "CDEnrich",
     "url": "https://github.com/BiocStaging/CDEnrich"
+  },
+  {
+    "package": "MsExperimentStash",
+    "url": "https://github.com/BiocStaging/MsExperimentStash"
   }
 ]
