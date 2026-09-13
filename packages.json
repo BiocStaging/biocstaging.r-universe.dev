@@ -410,5 +410,9 @@
   {
     "package": "consensusRegions",
     "url": "https://github.com/BiocStaging/consensusRegions"
+  },
+  {
+    "package": "CDEnrich",
+    "url": "https://github.com/BiocStaging/CDEnrich"
   }
 ]
