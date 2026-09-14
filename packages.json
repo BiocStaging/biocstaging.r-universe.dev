@@ -52,10 +52,6 @@
     "url": "https://github.com/BiocStaging/LIPIDIFy"
   },
   {
-    "package": "gdscloud",
-    "url": "https://github.com/BiocStaging/gdscloud"
-  },
-  {
     "package": "sciNOME",
     "url": "https://github.com/BiocStaging/sciNOME"
   },
