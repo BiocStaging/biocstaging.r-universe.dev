@@ -176,10 +176,6 @@
     "url": "https://github.com/BiocStaging/BreedingExperiment"
   },
   {
-    "package": "QFeaturesGUI",
-    "url": "https://github.com/BiocStaging/QFeaturesGUI"
-  },
-  {
     "package": "drugannotR",
     "url": "https://github.com/BiocStaging/drugannotR"
   },
