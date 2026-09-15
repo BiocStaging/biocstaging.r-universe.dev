@@ -410,5 +410,9 @@
   {
     "package": "tewas",
     "url": "https://github.com/BiocStaging/tewas"
+  },
+  {
+    "package": "MsBackendParquet",
+    "url": "https://github.com/BiocStaging/MsBackendParquet"
   }
 ]
