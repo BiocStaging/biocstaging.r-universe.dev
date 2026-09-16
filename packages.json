@@ -204,10 +204,6 @@
     "url": "https://github.com/BiocStaging/perturbMatch"
   },
   {
-    "package": "geneClusterPattern",
-    "url": "https://github.com/BiocStaging/geneClusterPattern"
-  },
-  {
     "package": "BatchVaria",
     "url": "https://github.com/BiocStaging/BatchVaria"
   },
