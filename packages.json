@@ -406,5 +406,9 @@
   {
     "package": "MsBackendParquet",
     "url": "https://github.com/BiocStaging/MsBackendParquet"
+  },
+  {
+    "package": "crossarrayEWAS",
+    "url": "https://github.com/BiocStaging/crossarrayEWAS"
   }
 ]
