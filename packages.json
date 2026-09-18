@@ -422,5 +422,9 @@
   {
     "package": "exposomeSC",
     "url": "https://github.com/BiocStaging/exposomeSC"
+  },
+  {
+    "package": "cascadeR",
+    "url": "https://github.com/BiocStaging/cascadeR"
   }
 ]
