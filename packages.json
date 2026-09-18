@@ -414,5 +414,9 @@
   {
     "package": "paweh",
     "url": "https://github.com/BiocStaging/paweh"
+  },
+  {
+    "package": "WithinHostExperiment",
+    "url": "https://github.com/BiocStaging/WithinHostExperiment"
   }
 ]
