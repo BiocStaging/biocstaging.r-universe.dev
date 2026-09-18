@@ -418,5 +418,9 @@
   {
     "package": "WithinHostExperiment",
     "url": "https://github.com/BiocStaging/WithinHostExperiment"
+  },
+  {
+    "package": "exposomeSC",
+    "url": "https://github.com/BiocStaging/exposomeSC"
   }
 ]
