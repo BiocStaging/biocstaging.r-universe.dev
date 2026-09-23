@@ -438,5 +438,9 @@
   {
     "package": "enviPathR",
     "url": "https://github.com/BiocStaging/enviPathR"
+  },
+  {
+    "package": "thyroidBRS",
+    "url": "https://github.com/BiocStaging/thyroidBRS"
   }
 ]
