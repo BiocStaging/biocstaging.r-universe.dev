@@ -48,10 +48,6 @@
     "url": "https://github.com/BiocStaging/CMEnt"
   },
   {
-    "package": "LIPIDIFy",
-    "url": "https://github.com/BiocStaging/LIPIDIFy"
-  },
-  {
     "package": "sciNOME",
     "url": "https://github.com/BiocStaging/sciNOME"
   },
