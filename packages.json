@@ -450,5 +450,9 @@
   {
     "package": "OmniCorr",
     "url": "https://github.com/BiocStaging/OmniCorr"
+  },
+  {
+    "package": "STRprofilerR",
+    "url": "https://github.com/BiocStaging/STRprofilerR"
   }
 ]
