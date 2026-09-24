@@ -446,5 +446,9 @@
   {
     "package": "ConvergeR",
     "url": "https://github.com/BiocStaging/ConvergeR"
+  },
+  {
+    "package": "OmniCorr",
+    "url": "https://github.com/BiocStaging/OmniCorr"
   }
 ]
