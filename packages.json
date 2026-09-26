@@ -458,5 +458,9 @@
   {
     "package": "postexportKinetics",
     "url": "https://github.com/BiocStaging/postexportKinetics"
+  },
+  {
+    "package": "scSimEval",
+    "url": "https://github.com/BiocStaging/scSimEval"
   }
 ]
