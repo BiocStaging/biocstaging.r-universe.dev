@@ -40,10 +40,6 @@
     "url": "https://github.com/BiocStaging/IntegratedLearner"
   },
   {
-    "package": "rvarsim",
-    "url": "https://github.com/BiocStaging/rvarsim"
-  },
-  {
     "package": "CMEnt",
     "url": "https://github.com/BiocStaging/CMEnt"
   },
