@@ -458,5 +458,9 @@
   {
     "package": "hcocena",
     "url": "https://github.com/BiocStaging/hcocena"
+  },
+  {
+    "package": "postexportKinetics",
+    "url": "https://github.com/BiocStaging/postexportKinetics"
   }
 ]
