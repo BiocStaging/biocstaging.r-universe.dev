@@ -462,5 +462,9 @@
   {
     "package": "scSimEval",
     "url": "https://github.com/BiocStaging/scSimEval"
+  },
+  {
+    "package": "GDSAnnotator",
+    "url": "https://github.com/BiocStaging/GDSAnnotator"
   }
 ]
