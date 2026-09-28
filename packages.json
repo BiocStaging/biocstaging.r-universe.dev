@@ -200,10 +200,6 @@
     "url": "https://github.com/BiocStaging/BatchVaria"
   },
   {
-    "package": "TxDb.Osativa.MSU.RGAP7",
-    "url": "https://github.com/BiocStaging/TxDb.Osativa.MSU.RGAP7"
-  },
-  {
     "package": "GENCODEHub",
     "url": "https://github.com/BiocStaging/GENCODEHub"
   },
