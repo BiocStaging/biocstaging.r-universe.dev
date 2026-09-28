@@ -244,10 +244,6 @@
     "url": "https://github.com/BiocStaging/MiCARA"
   },
   {
-    "package": "SpaMTPData",
-    "url": "https://github.com/BiocStaging/SpaMTPData"
-  },
-  {
     "package": "TxDb.Athaliana.Ensembl.TAIR10",
     "url": "https://github.com/BiocStaging/TxDb.Athaliana.Ensembl.TAIR10"
   },
