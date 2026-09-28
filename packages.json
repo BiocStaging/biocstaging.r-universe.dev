@@ -470,5 +470,9 @@
   {
     "package": "pdactrace",
     "url": "https://github.com/BiocStaging/pdactrace"
+  },
+  {
+    "package": "MRCCC",
+    "url": "https://github.com/BiocStaging/MRCCC"
   }
 ]
