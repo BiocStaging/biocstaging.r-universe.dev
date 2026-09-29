@@ -462,5 +462,9 @@
   {
     "package": "Tweedieverse",
     "url": "https://github.com/BiocStaging/Tweedieverse"
+  },
+  {
+    "package": "myoRDNA",
+    "url": "https://github.com/BiocStaging/myoRDNA"
   }
 ]
