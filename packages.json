@@ -458,5 +458,9 @@
   {
     "package": "myoRDNA",
     "url": "https://github.com/BiocStaging/myoRDNA"
+  },
+  {
+    "package": "orthoRibbon",
+    "url": "https://github.com/BiocStaging/orthoRibbon"
   }
 ]
