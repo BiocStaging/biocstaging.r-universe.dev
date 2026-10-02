@@ -288,10 +288,6 @@
     "url": "https://github.com/BiocStaging/TweedSpot"
   },
   {
-    "package": "rnaSentry",
-    "url": "https://github.com/BiocStaging/rnaSentry"
-  },
-  {
     "package": "saintexpress",
     "url": "https://github.com/BiocStaging/saintexpress"
   },
