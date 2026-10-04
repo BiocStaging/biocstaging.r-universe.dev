@@ -462,5 +462,9 @@
   {
     "package": "orthoRibbon",
     "url": "https://github.com/BiocStaging/orthoRibbon"
+  },
+  {
+    "package": "PscanRBackgrounds",
+    "url": "https://github.com/BiocStaging/PscanRBackgrounds"
   }
 ]
