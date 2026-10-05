@@ -466,5 +466,9 @@
   {
     "package": "PscanRBackgrounds",
     "url": "https://github.com/BiocStaging/PscanRBackgrounds"
+  },
+  {
+    "package": "SummarizedHeatmap",
+    "url": "https://github.com/BiocStaging/SummarizedHeatmap"
   }
 ]
