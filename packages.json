@@ -478,5 +478,9 @@
   {
     "package": "OmicsChrono",
     "url": "https://github.com/BiocStaging/OmicsChrono"
+  },
+  {
+    "package": "PscanR",
+    "url": "https://github.com/BiocStaging/PscanR"
   }
 ]
