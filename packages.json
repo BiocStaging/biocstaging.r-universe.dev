@@ -470,5 +470,9 @@
   {
     "package": "SummarizedHeatmap",
     "url": "https://github.com/BiocStaging/SummarizedHeatmap"
+  },
+  {
+    "package": "BamScaleR",
+    "url": "https://github.com/BiocStaging/BamScaleR"
   }
 ]
