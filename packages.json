@@ -482,5 +482,9 @@
   {
     "package": "PscanR",
     "url": "https://github.com/BiocStaging/PscanR"
+  },
+  {
+    "package": "lantern",
+    "url": "https://github.com/BiocStaging/lantern"
   }
 ]
