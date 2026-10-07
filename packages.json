@@ -486,5 +486,9 @@
   {
     "package": "lantern",
     "url": "https://github.com/BiocStaging/lantern"
+  },
+  {
+    "package": "geneticumap",
+    "url": "https://github.com/BiocStaging/geneticumap"
   }
 ]
