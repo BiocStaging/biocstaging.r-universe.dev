@@ -498,5 +498,9 @@
   {
     "package": "scDonorAudit",
     "url": "https://github.com/BiocStaging/scDonorAudit"
+  },
+  {
+    "package": "myTestPkg",
+    "url": "https://github.com/BiocStaging/myTestPkg"
   }
 ]
