@@ -494,5 +494,9 @@
   {
     "package": "scDonorAudit",
     "url": "https://github.com/BiocStaging/scDonorAudit"
+  },
+  {
+    "package": "SpatialData.data",
+    "url": "https://github.com/BiocStaging/SpatialData.data"
   }
 ]
