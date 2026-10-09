@@ -148,10 +148,6 @@
     "url": "https://github.com/BiocStaging/ggwas"
   },
   {
-    "package": "CyFj11",
-    "url": "https://github.com/BiocStaging/CyFj11"
-  },
-  {
     "package": "BreedingExperiment",
     "url": "https://github.com/BiocStaging/BreedingExperiment"
   },
