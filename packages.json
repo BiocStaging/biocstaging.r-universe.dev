@@ -404,10 +404,6 @@
     "url": "https://github.com/BiocStaging/loopQTL"
   },
   {
-    "package": "thyroidBRS",
-    "url": "https://github.com/BiocStaging/thyroidBRS"
-  },
-  {
     "package": "PACE",
     "url": "https://github.com/BiocStaging/PACE"
   },
