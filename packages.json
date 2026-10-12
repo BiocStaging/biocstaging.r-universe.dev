@@ -498,5 +498,9 @@
   {
     "package": "HaploBreedR",
     "url": "https://github.com/BiocStaging/HaploBreedR"
+  },
+  {
+    "package": "RPBC",
+    "url": "https://github.com/BiocStaging/RPBC"
   }
 ]
