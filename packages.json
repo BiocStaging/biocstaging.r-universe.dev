@@ -498,5 +498,9 @@
   {
     "package": "RPBC",
     "url": "https://github.com/BiocStaging/RPBC"
+  },
+  {
+    "package": "PhiSpace",
+    "url": "https://github.com/BiocStaging/PhiSpace"
   }
 ]
