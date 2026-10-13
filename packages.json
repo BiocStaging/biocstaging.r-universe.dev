@@ -492,10 +492,6 @@
     "url": "https://github.com/BiocStaging/scDonorAudit"
   },
   {
-    "package": "SpatialData.data",
-    "url": "https://github.com/BiocStaging/SpatialData.data"
-  },
-  {
     "package": "HaploBreedR",
     "url": "https://github.com/BiocStaging/HaploBreedR"
   },
