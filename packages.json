@@ -288,10 +288,6 @@
     "url": "https://github.com/BiocStaging/prolfqua"
   },
   {
-    "package": "DiPPER",
-    "url": "https://github.com/BiocStaging/DiPPER"
-  },
-  {
     "package": "cpgdirectionData",
     "url": "https://github.com/BiocStaging/cpgdirectionData"
   },
