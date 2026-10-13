@@ -320,10 +320,6 @@
     "url": "https://github.com/BiocStaging/strainspy"
   },
   {
-    "package": "IntrinsicScan",
-    "url": "https://github.com/BiocStaging/IntrinsicScan"
-  },
-  {
     "package": "NADIA",
     "url": "https://github.com/BiocStaging/NADIA"
   },
