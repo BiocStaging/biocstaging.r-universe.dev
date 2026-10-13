@@ -184,10 +184,6 @@
     "url": "https://github.com/BiocStaging/perturbMatch"
   },
   {
-    "package": "BatchVaria",
-    "url": "https://github.com/BiocStaging/BatchVaria"
-  },
-  {
     "package": "GENCODEHub",
     "url": "https://github.com/BiocStaging/GENCODEHub"
   },
