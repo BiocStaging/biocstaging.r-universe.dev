@@ -486,5 +486,9 @@
   {
     "package": "superintervalsr",
     "url": "https://github.com/BiocStaging/superintervalsr"
+  },
+  {
+    "package": "causalASCEND",
+    "url": "https://github.com/BiocStaging/causalASCEND"
   }
 ]
