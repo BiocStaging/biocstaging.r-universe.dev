@@ -482,5 +482,9 @@
   {
     "package": "OrnTx",
     "url": "https://github.com/BiocStaging/OrnTx"
+  },
+  {
+    "package": "superintervalsr",
+    "url": "https://github.com/BiocStaging/superintervalsr"
   }
 ]
