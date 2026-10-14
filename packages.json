@@ -60,10 +60,6 @@
     "url": "https://github.com/BiocStaging/reglScatterplotR"
   },
   {
-    "package": "karioCaS",
-    "url": "https://github.com/BiocStaging/karioCaS"
-  },
-  {
     "package": "scOverlay",
     "url": "https://github.com/BiocStaging/scOverlay"
   },
