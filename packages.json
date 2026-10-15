@@ -384,10 +384,6 @@
     "url": "https://github.com/BiocStaging/loopQTL"
   },
   {
-    "package": "PACE",
-    "url": "https://github.com/BiocStaging/PACE"
-  },
-  {
     "package": "ConvergeR",
     "url": "https://github.com/BiocStaging/ConvergeR"
   },
