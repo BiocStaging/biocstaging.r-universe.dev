@@ -486,5 +486,9 @@
   {
     "package": "causalASCEND",
     "url": "https://github.com/BiocStaging/causalASCEND"
+  },
+  {
+    "package": "miREA",
+    "url": "https://github.com/BiocStaging/miREA"
   }
 ]
