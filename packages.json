@@ -490,5 +490,9 @@
   {
     "package": "miREA",
     "url": "https://github.com/BiocStaging/miREA"
+  },
+  {
+    "package": "MultiOmicsCancer",
+    "url": "https://github.com/BiocStaging/MultiOmicsCancer"
   }
 ]
