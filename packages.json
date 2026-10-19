@@ -494,5 +494,9 @@
   {
     "package": "MultiOmicsCancer",
     "url": "https://github.com/BiocStaging/MultiOmicsCancer"
+  },
+  {
+    "package": "conformeR",
+    "url": "https://github.com/BiocStaging/conformeR"
   }
 ]
