@@ -498,5 +498,9 @@
   {
     "package": "SegStability",
     "url": "https://github.com/BiocStaging/SegStability"
+  },
+  {
+    "package": "OncoSeq",
+    "url": "https://github.com/BiocStaging/OncoSeq"
   }
 ]
