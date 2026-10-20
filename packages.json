@@ -502,5 +502,9 @@
   {
     "package": "OncoSeq",
     "url": "https://github.com/BiocStaging/OncoSeq"
+  },
+  {
+    "package": "HTAN",
+    "url": "https://github.com/BiocStaging/HTAN"
   }
 ]
