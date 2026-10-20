@@ -36,10 +36,6 @@
     "url": "https://github.com/BiocStaging/IntegratedLearner"
   },
   {
-    "package": "CMEnt",
-    "url": "https://github.com/BiocStaging/CMEnt"
-  },
-  {
     "package": "sciNOME",
     "url": "https://github.com/BiocStaging/sciNOME"
   },
