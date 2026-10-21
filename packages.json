@@ -388,10 +388,6 @@
     "url": "https://github.com/BiocStaging/OmniCorr"
   },
   {
-    "package": "STRprofilerR",
-    "url": "https://github.com/BiocStaging/STRprofilerR"
-  },
-  {
     "package": "hcocena",
     "url": "https://github.com/BiocStaging/hcocena"
   },
