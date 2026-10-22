@@ -52,10 +52,6 @@
     "url": "https://github.com/BiocStaging/PACMOSData"
   },
   {
-    "package": "reglScatterplotR",
-    "url": "https://github.com/BiocStaging/reglScatterplotR"
-  },
-  {
     "package": "scOverlay",
     "url": "https://github.com/BiocStaging/scOverlay"
   },
