@@ -436,10 +436,6 @@
     "url": "https://github.com/BiocStaging/geneticumap"
   },
   {
-    "package": "SpatialData.plot",
-    "url": "https://github.com/BiocStaging/SpatialData.plot"
-  },
-  {
     "package": "scDonorAudit",
     "url": "https://github.com/BiocStaging/scDonorAudit"
   },
