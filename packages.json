@@ -478,5 +478,9 @@
   {
     "package": "HTAN",
     "url": "https://github.com/BiocStaging/HTAN"
+  },
+  {
+    "package": "splitTypeR",
+    "url": "https://github.com/BiocStaging/splitTypeR"
   }
 ]
