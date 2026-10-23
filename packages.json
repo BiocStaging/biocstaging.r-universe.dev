@@ -384,10 +384,6 @@
     "url": "https://github.com/BiocStaging/scSimEval"
   },
   {
-    "package": "GDSAnnotator",
-    "url": "https://github.com/BiocStaging/GDSAnnotator"
-  },
-  {
     "package": "pdactrace",
     "url": "https://github.com/BiocStaging/pdactrace"
   },
