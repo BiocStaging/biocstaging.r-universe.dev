@@ -482,5 +482,9 @@
   {
     "package": "splitTypeR",
     "url": "https://github.com/BiocStaging/splitTypeR"
+  },
+  {
+    "package": "MsBackendTimsTof",
+    "url": "https://github.com/BiocStaging/MsBackendTimsTof"
   }
 ]
