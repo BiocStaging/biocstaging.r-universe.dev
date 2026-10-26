@@ -52,10 +52,6 @@
     "url": "https://github.com/BiocStaging/PACMOSData"
   },
   {
-    "package": "scOverlay",
-    "url": "https://github.com/BiocStaging/scOverlay"
-  },
-  {
     "package": "consensusTADs",
     "url": "https://github.com/BiocStaging/consensusTADs"
   },
