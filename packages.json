@@ -486,5 +486,9 @@
   {
     "package": "MsBackendTimsTof",
     "url": "https://github.com/BiocStaging/MsBackendTimsTof"
+  },
+  {
+    "package": "MacrophageFramework",
+    "url": "https://github.com/BiocStaging/MacrophageFramework"
   }
 ]
