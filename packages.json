@@ -48,10 +48,6 @@
     "url": "https://github.com/BiocStaging/MOTL"
   },
   {
-    "package": "PACMOSData",
-    "url": "https://github.com/BiocStaging/PACMOSData"
-  },
-  {
     "package": "consensusTADs",
     "url": "https://github.com/BiocStaging/consensusTADs"
   },
