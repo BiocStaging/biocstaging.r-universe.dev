@@ -292,10 +292,6 @@
     "url": "https://github.com/BiocStaging/CanvasXpressBio"
   },
   {
-    "package": "strainspy",
-    "url": "https://github.com/BiocStaging/strainspy"
-  },
-  {
     "package": "NADIA",
     "url": "https://github.com/BiocStaging/NADIA"
   },
