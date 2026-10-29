@@ -482,5 +482,9 @@
   {
     "package": "fuzzyCell",
     "url": "https://github.com/BiocStaging/fuzzyCell"
+  },
+  {
+    "package": "alabaster.treese",
+    "url": "https://github.com/BiocStaging/alabaster.treese"
   }
 ]
