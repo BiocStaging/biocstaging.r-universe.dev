@@ -478,5 +478,9 @@
   {
     "package": "MacrophageFramework",
     "url": "https://github.com/BiocStaging/MacrophageFramework"
+  },
+  {
+    "package": "fuzzyCell",
+    "url": "https://github.com/BiocStaging/fuzzyCell"
   }
 ]
