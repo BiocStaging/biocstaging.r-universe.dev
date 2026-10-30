@@ -482,5 +482,9 @@
   {
     "package": "RGenEDA",
     "url": "https://github.com/BiocStaging/RGenEDA"
+  },
+  {
+    "package": "bigWig",
+    "url": "https://github.com/BiocStaging/bigWig"
   }
 ]
