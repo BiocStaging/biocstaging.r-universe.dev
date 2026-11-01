@@ -68,10 +68,6 @@
     "url": "https://github.com/BiocStaging/inferRecom"
   },
   {
-    "package": "GSE142512",
-    "url": "https://github.com/BiocStaging/GSE142512"
-  },
-  {
     "package": "faissR",
     "url": "https://github.com/BiocStaging/faissR"
   },
