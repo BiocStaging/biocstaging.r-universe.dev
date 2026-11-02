@@ -372,8 +372,8 @@
     "url": "https://github.com/BiocStaging/Tweedieverse"
   },
   {
-    "package": "myoRDNA",
-    "url": "https://github.com/BiocStaging/myoRDNA"
+    "package": "seqRdna",
+    "url": "https://github.com/BiocStaging/seqRdna"
   },
   {
     "package": "orthoRibbon",
