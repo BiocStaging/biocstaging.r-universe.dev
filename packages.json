@@ -486,5 +486,9 @@
   {
     "package": "IsoNetAnalyzeR",
     "url": "https://github.com/BiocStaging/IsoNetAnalyzeR"
+  },
+  {
+    "package": "apbCatalogR",
+    "url": "https://github.com/BiocStaging/apbCatalogR"
   }
 ]
