@@ -478,5 +478,9 @@
   {
     "package": "bigWig",
     "url": "https://github.com/BiocStaging/bigWig"
+  },
+  {
+    "package": "R4AOP",
+    "url": "https://github.com/BiocStaging/R4AOP"
   }
 ]
