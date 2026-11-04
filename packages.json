@@ -56,10 +56,6 @@
     "url": "https://github.com/BiocStaging/woven"
   },
   {
-    "package": "tTEscanR",
-    "url": "https://github.com/BiocStaging/tTEscanR"
-  },
-  {
     "package": "PTMsToPathwaysData",
     "url": "https://github.com/BiocStaging/PTMsToPathwaysData"
   },
