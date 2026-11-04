@@ -92,10 +92,6 @@
     "url": "https://github.com/BiocStaging/OmicsLake"
   },
   {
-    "package": "ClinicalVariantR",
-    "url": "https://github.com/BiocStaging/ClinicalVariantR"
-  },
-  {
     "package": "mdclust",
     "url": "https://github.com/BiocStaging/mdclust"
   },
