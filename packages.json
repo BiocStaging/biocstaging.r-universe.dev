@@ -308,10 +308,6 @@
     "url": "https://github.com/BiocStaging/MsExperimentStash"
   },
   {
-    "package": "scProkaR",
-    "url": "https://github.com/BiocStaging/scProkaR"
-  },
-  {
     "package": "tewas",
     "url": "https://github.com/BiocStaging/tewas"
   },
