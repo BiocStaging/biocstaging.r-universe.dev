@@ -364,10 +364,6 @@
     "url": "https://github.com/BiocStaging/orthoRibbon"
   },
   {
-    "package": "PscanRBackgrounds",
-    "url": "https://github.com/BiocStaging/PscanRBackgrounds"
-  },
-  {
     "package": "BamScaleR",
     "url": "https://github.com/BiocStaging/BamScaleR"
   },
