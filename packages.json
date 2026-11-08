@@ -220,10 +220,6 @@
     "url": "https://github.com/BiocStaging/methylTFRAnnotationHg38"
   },
   {
-    "package": "methylTFRAnnotationMm10",
-    "url": "https://github.com/BiocStaging/methylTFRAnnotationMm10"
-  },
-  {
     "package": "RhyME",
     "url": "https://github.com/BiocStaging/RhyME"
   },
