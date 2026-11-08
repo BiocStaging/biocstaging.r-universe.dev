@@ -16,10 +16,6 @@
     "url": "https://github.com/BiocStaging/TxParq.Hs.gencode.v49"
   },
   {
-    "package": "bHIVE",
-    "url": "https://github.com/BiocStaging/bHIVE"
-  },
-  {
     "package": "PlantTxDbHub",
     "url": "https://github.com/BiocStaging/PlantTxDbHub"
   },
