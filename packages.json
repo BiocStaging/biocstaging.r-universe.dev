@@ -292,10 +292,6 @@
     "url": "https://github.com/BiocStaging/tewas"
   },
   {
-    "package": "crossarrayEWAS",
-    "url": "https://github.com/BiocStaging/crossarrayEWAS"
-  },
-  {
     "package": "paweh",
     "url": "https://github.com/BiocStaging/paweh"
   },
