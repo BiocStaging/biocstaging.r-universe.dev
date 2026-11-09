@@ -212,10 +212,6 @@
     "url": "https://github.com/BiocStaging/methylTFR"
   },
   {
-    "package": "methylTFRAnnotationHg38",
-    "url": "https://github.com/BiocStaging/methylTFRAnnotationHg38"
-  },
-  {
     "package": "spatialDESeq",
     "url": "https://github.com/BiocStaging/spatialDESeq"
   },
