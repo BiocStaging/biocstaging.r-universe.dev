@@ -450,5 +450,9 @@
   {
     "package": "bgnormR",
     "url": "https://github.com/BiocStaging/bgnormR"
+  },
+  {
+    "package": "spiDE",
+    "url": "https://github.com/BiocStaging/spiDE"
   }
 ]
