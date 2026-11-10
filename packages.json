@@ -446,5 +446,9 @@
   {
     "package": "thanatome",
     "url": "https://github.com/BiocStaging/thanatome"
+  },
+  {
+    "package": "bgnormR",
+    "url": "https://github.com/BiocStaging/bgnormR"
   }
 ]
