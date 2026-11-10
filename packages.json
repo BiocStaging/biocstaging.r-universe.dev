@@ -348,10 +348,6 @@
     "url": "https://github.com/BiocStaging/OmicsChrono"
   },
   {
-    "package": "PscanR",
-    "url": "https://github.com/BiocStaging/PscanR"
-  },
-  {
     "package": "geneticumap",
     "url": "https://github.com/BiocStaging/geneticumap"
   },
