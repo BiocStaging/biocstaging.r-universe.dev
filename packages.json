@@ -442,5 +442,9 @@
   {
     "package": "spliceTerrain",
     "url": "https://github.com/BiocStaging/spliceTerrain"
+  },
+  {
+    "package": "thanatome",
+    "url": "https://github.com/BiocStaging/thanatome"
   }
 ]
