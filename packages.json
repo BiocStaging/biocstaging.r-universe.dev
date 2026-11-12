@@ -244,10 +244,6 @@
     "url": "https://github.com/BiocStaging/CanvasXpressBio"
   },
   {
-    "package": "NADIA",
-    "url": "https://github.com/BiocStaging/NADIA"
-  },
-  {
     "package": "scGenePanel",
     "url": "https://github.com/BiocStaging/scGenePanel"
   },
