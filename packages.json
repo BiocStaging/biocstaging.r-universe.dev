@@ -430,5 +430,9 @@
   {
     "package": "spiDE",
     "url": "https://github.com/BiocStaging/spiDE"
+  },
+  {
+    "package": "repli",
+    "url": "https://github.com/BiocStaging/repli"
   }
 ]
