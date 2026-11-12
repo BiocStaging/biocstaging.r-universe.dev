@@ -412,10 +412,6 @@
     "url": "https://github.com/BiocStaging/IsoNetAnalyzeR"
   },
   {
-    "package": "apbCatalogR",
-    "url": "https://github.com/BiocStaging/apbCatalogR"
-  },
-  {
     "package": "spliceTerrain",
     "url": "https://github.com/BiocStaging/spliceTerrain"
   },
