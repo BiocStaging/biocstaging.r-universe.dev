@@ -236,10 +236,6 @@
     "url": "https://github.com/BiocStaging/epiPortrait"
   },
   {
-    "package": "CanvasXpressBio",
-    "url": "https://github.com/BiocStaging/CanvasXpressBio"
-  },
-  {
     "package": "scGenePanel",
     "url": "https://github.com/BiocStaging/scGenePanel"
   },
