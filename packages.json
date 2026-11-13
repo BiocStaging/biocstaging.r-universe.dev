@@ -28,10 +28,6 @@
     "url": "https://github.com/BiocStaging/epiwraps"
   },
   {
-    "package": "IntegratedLearner",
-    "url": "https://github.com/BiocStaging/IntegratedLearner"
-  },
-  {
     "package": "sciNOME",
     "url": "https://github.com/BiocStaging/sciNOME"
   },
