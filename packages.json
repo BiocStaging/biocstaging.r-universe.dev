@@ -422,5 +422,9 @@
   {
     "package": "repli",
     "url": "https://github.com/BiocStaging/repli"
+  },
+  {
+    "package": "exploreDE",
+    "url": "https://github.com/BiocStaging/exploreDE"
   }
 ]
