@@ -422,5 +422,9 @@
   {
     "package": "exploreDE",
     "url": "https://github.com/BiocStaging/exploreDE"
+  },
+  {
+    "package": "SACAT",
+    "url": "https://github.com/BiocStaging/SACAT"
   }
 ]
