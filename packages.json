@@ -300,10 +300,6 @@
     "url": "https://github.com/BiocStaging/Tweedieverse"
   },
   {
-    "package": "seqRdna",
-    "url": "https://github.com/BiocStaging/seqRdna"
-  },
-  {
     "package": "orthoRibbon",
     "url": "https://github.com/BiocStaging/orthoRibbon"
   },
