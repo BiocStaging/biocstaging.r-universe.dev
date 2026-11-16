@@ -168,10 +168,6 @@
     "url": "https://github.com/BiocStaging/circaTime"
   },
   {
-    "package": "MiCARA",
-    "url": "https://github.com/BiocStaging/MiCARA"
-  },
-  {
     "package": "TxDb.Gmax.JGI.Gmv4",
     "url": "https://github.com/BiocStaging/TxDb.Gmax.JGI.Gmv4"
   },
