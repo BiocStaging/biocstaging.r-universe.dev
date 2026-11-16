@@ -426,5 +426,9 @@
   {
     "package": "SACAT",
     "url": "https://github.com/BiocStaging/SACAT"
+  },
+  {
+    "package": "looOmics",
+    "url": "https://github.com/BiocStaging/looOmics"
   }
 ]
