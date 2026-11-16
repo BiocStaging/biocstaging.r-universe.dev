@@ -426,5 +426,9 @@
   {
     "package": "looOmics",
     "url": "https://github.com/BiocStaging/looOmics"
+  },
+  {
+    "package": "GOxploreR",
+    "url": "https://github.com/BiocStaging/GOxploreR"
   }
 ]
