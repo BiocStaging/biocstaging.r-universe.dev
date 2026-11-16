@@ -20,10 +20,6 @@
     "url": "https://github.com/BiocStaging/PlantTxDbHub"
   },
   {
-    "package": "sbivar",
-    "url": "https://github.com/BiocStaging/sbivar"
-  },
-  {
     "package": "epiwraps",
     "url": "https://github.com/BiocStaging/epiwraps"
   },
