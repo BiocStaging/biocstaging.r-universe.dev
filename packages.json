@@ -40,10 +40,6 @@
     "url": "https://github.com/BiocStaging/consensusTADs"
   },
   {
-    "package": "woven",
-    "url": "https://github.com/BiocStaging/woven"
-  },
-  {
     "package": "PTMsToPathwaysData",
     "url": "https://github.com/BiocStaging/PTMsToPathwaysData"
   },
