@@ -384,10 +384,6 @@
     "url": "https://github.com/BiocStaging/R4AOP"
   },
   {
-    "package": "IsoNetAnalyzeR",
-    "url": "https://github.com/BiocStaging/IsoNetAnalyzeR"
-  },
-  {
     "package": "spliceTerrain",
     "url": "https://github.com/BiocStaging/spliceTerrain"
   },
