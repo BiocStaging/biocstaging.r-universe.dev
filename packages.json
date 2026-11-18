@@ -68,10 +68,6 @@
     "url": "https://github.com/BiocStaging/cellpaintr"
   },
   {
-    "package": "QuickBLAST",
-    "url": "https://github.com/BiocStaging/QuickBLAST"
-  },
-  {
     "package": "OmicsLake",
     "url": "https://github.com/BiocStaging/OmicsLake"
   },
