@@ -406,5 +406,9 @@
   {
     "package": "omicslog",
     "url": "https://github.com/BiocStaging/omicslog"
+  },
+  {
+    "package": "spiSEE",
+    "url": "https://github.com/BiocStaging/spiSEE"
   }
 ]
