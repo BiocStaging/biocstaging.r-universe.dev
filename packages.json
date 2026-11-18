@@ -410,5 +410,9 @@
   {
     "package": "GOxploreR",
     "url": "https://github.com/BiocStaging/GOxploreR"
+  },
+  {
+    "package": "omicslog",
+    "url": "https://github.com/BiocStaging/omicslog"
   }
 ]
