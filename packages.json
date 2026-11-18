@@ -248,10 +248,6 @@
     "url": "https://github.com/BiocStaging/cascadeR"
   },
   {
-    "package": "panpathAudit",
-    "url": "https://github.com/BiocStaging/panpathAudit"
-  },
-  {
     "package": "loopQTL",
     "url": "https://github.com/BiocStaging/loopQTL"
   },
