@@ -414,5 +414,9 @@
   {
     "package": "CPTACdata",
     "url": "https://github.com/BiocStaging/CPTACdata"
+  },
+  {
+    "package": "plasticdb",
+    "url": "https://github.com/BiocStaging/plasticdb"
   }
 ]
