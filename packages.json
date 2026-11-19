@@ -418,5 +418,9 @@
   {
     "package": "plasticdb",
     "url": "https://github.com/BiocStaging/plasticdb"
+  },
+  {
+    "package": "tn5bias",
+    "url": "https://github.com/BiocStaging/tn5bias"
   }
 ]
