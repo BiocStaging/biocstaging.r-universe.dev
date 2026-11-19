@@ -418,5 +418,9 @@
   {
     "package": "tn5bias",
     "url": "https://github.com/BiocStaging/tn5bias"
+  },
+  {
+    "package": "scSimEvalStudio",
+    "url": "https://github.com/BiocStaging/scSimEvalStudio"
   }
 ]
