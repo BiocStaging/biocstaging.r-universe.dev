@@ -84,10 +84,6 @@
     "url": "https://github.com/BiocStaging/DgeaHeatmap"
   },
   {
-    "package": "mesa",
-    "url": "https://github.com/BiocStaging/mesa"
-  },
-  {
     "package": "ggwas",
     "url": "https://github.com/BiocStaging/ggwas"
   },
