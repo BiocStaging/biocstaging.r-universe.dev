@@ -228,10 +228,6 @@
     "url": "https://github.com/BiocStaging/CDEnrich"
   },
   {
-    "package": "MsExperimentStash",
-    "url": "https://github.com/BiocStaging/MsExperimentStash"
-  },
-  {
     "package": "tewas",
     "url": "https://github.com/BiocStaging/tewas"
   },
