@@ -216,10 +216,6 @@
     "url": "https://github.com/BiocStaging/GenomicDataStream"
   },
   {
-    "package": "consensusRegions",
-    "url": "https://github.com/BiocStaging/consensusRegions"
-  },
-  {
     "package": "CDEnrich",
     "url": "https://github.com/BiocStaging/CDEnrich"
   },
