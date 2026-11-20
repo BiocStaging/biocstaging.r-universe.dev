@@ -168,10 +168,6 @@
     "url": "https://github.com/BiocStaging/SpaMTP"
   },
   {
-    "package": "methylTFR",
-    "url": "https://github.com/BiocStaging/methylTFR"
-  },
-  {
     "package": "spatialDESeq",
     "url": "https://github.com/BiocStaging/spatialDESeq"
   },
