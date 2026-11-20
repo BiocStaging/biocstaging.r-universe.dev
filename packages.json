@@ -410,5 +410,9 @@
   {
     "package": "scSimEvalStudio",
     "url": "https://github.com/BiocStaging/scSimEvalStudio"
+  },
+  {
+    "package": "MicroBioMeta",
+    "url": "https://github.com/BiocStaging/MicroBioMeta"
   }
 ]
