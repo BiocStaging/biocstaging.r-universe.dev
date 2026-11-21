@@ -44,10 +44,6 @@
     "url": "https://github.com/BiocStaging/PTMsToPathwaysData"
   },
   {
-    "package": "inferRecom",
-    "url": "https://github.com/BiocStaging/inferRecom"
-  },
-  {
     "package": "faissR",
     "url": "https://github.com/BiocStaging/faissR"
   },
