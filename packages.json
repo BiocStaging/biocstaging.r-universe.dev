@@ -406,5 +406,9 @@
   {
     "package": "MicroBioMeta",
     "url": "https://github.com/BiocStaging/MicroBioMeta"
+  },
+  {
+    "package": "homerViz",
+    "url": "https://github.com/BiocStaging/homerViz"
   }
 ]
