@@ -410,5 +410,9 @@
   {
     "package": "homerViz",
     "url": "https://github.com/BiocStaging/homerViz"
+  },
+  {
+    "package": "STBench",
+    "url": "https://github.com/BiocStaging/STBench"
   }
 ]
