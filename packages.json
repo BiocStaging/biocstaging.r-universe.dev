@@ -136,10 +136,6 @@
     "url": "https://github.com/BiocStaging/hmagmaR"
   },
   {
-    "package": "circaTime",
-    "url": "https://github.com/BiocStaging/circaTime"
-  },
-  {
     "package": "TxDb.Gmax.JGI.Gmv4",
     "url": "https://github.com/BiocStaging/TxDb.Gmax.JGI.Gmv4"
   },
