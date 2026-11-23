@@ -402,5 +402,9 @@
   {
     "package": "geneSetSimplifyR",
     "url": "https://github.com/BiocStaging/geneSetSimplifyR"
+  },
+  {
+    "package": "MetVAE",
+    "url": "https://github.com/BiocStaging/MetVAE"
   }
 ]
