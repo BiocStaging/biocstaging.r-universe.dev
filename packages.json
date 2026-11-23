@@ -252,10 +252,6 @@
     "url": "https://github.com/BiocStaging/Tweedieverse"
   },
   {
-    "package": "orthoRibbon",
-    "url": "https://github.com/BiocStaging/orthoRibbon"
-  },
-  {
     "package": "BamScaleR",
     "url": "https://github.com/BiocStaging/BamScaleR"
   },
