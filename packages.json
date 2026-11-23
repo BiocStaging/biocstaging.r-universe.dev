@@ -410,5 +410,9 @@
   {
     "package": "TriGer",
     "url": "https://github.com/BiocStaging/TriGer"
+  },
+  {
+    "package": "geneSetSimplifyR",
+    "url": "https://github.com/BiocStaging/geneSetSimplifyR"
   }
 ]
