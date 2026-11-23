@@ -80,10 +80,6 @@
     "url": "https://github.com/BiocStaging/ggwas"
   },
   {
-    "package": "BreedingExperiment",
-    "url": "https://github.com/BiocStaging/BreedingExperiment"
-  },
-  {
     "package": "drugannotR",
     "url": "https://github.com/BiocStaging/drugannotR"
   },
