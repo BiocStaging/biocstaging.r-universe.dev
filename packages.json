@@ -248,10 +248,6 @@
     "url": "https://github.com/BiocStaging/pdactrace"
   },
   {
-    "package": "MRCCC",
-    "url": "https://github.com/BiocStaging/MRCCC"
-  },
-  {
     "package": "Tweedieverse",
     "url": "https://github.com/BiocStaging/Tweedieverse"
   },
