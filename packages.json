@@ -414,5 +414,9 @@
   {
     "package": "methylVCF",
     "url": "https://github.com/BiocStaging/methylVCF"
+  },
+  {
+    "package": "TriGer",
+    "url": "https://github.com/BiocStaging/TriGer"
   }
 ]
