@@ -402,5 +402,9 @@
   {
     "package": "basicBulk",
     "url": "https://github.com/BiocStaging/basicBulk"
+  },
+  {
+    "package": "Ropenbabel",
+    "url": "https://github.com/BiocStaging/Ropenbabel"
   }
 ]
