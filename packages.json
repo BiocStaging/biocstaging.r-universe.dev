@@ -406,5 +406,9 @@
   {
     "package": "MetVAE",
     "url": "https://github.com/BiocStaging/MetVAE"
+  },
+  {
+    "package": "basicBulk",
+    "url": "https://github.com/BiocStaging/basicBulk"
   }
 ]
