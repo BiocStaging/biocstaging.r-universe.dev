@@ -220,10 +220,6 @@
     "url": "https://github.com/BiocStaging/postexportKinetics"
   },
   {
-    "package": "scSimEval",
-    "url": "https://github.com/BiocStaging/scSimEval"
-  },
-  {
     "package": "pdactrace",
     "url": "https://github.com/BiocStaging/pdactrace"
   },
