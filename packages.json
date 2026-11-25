@@ -208,10 +208,6 @@
     "url": "https://github.com/BiocStaging/loopQTL"
   },
   {
-    "package": "ConvergeR",
-    "url": "https://github.com/BiocStaging/ConvergeR"
-  },
-  {
     "package": "hcocena",
     "url": "https://github.com/BiocStaging/hcocena"
   },
