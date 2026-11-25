@@ -394,5 +394,9 @@
   {
     "package": "Ropenbabel",
     "url": "https://github.com/BiocStaging/Ropenbabel"
+  },
+  {
+    "package": "ABCatlasR",
+    "url": "https://github.com/BiocStaging/ABCatlasR"
   }
 ]
