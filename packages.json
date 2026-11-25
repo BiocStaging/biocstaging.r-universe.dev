@@ -144,8 +144,8 @@
     "url": "https://github.com/BiocStaging/SpaMTP"
   },
   {
-    "package": "spatialDESeq",
-    "url": "https://github.com/BiocStaging/spatialDESeq"
+    "package": "spatialLagGLM",
+    "url": "https://github.com/BiocStaging/spatialLagGLM"
   },
   {
     "package": "dmsa",
