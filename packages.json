@@ -386,5 +386,9 @@
   {
     "package": "ABCatlasR",
     "url": "https://github.com/BiocStaging/ABCatlasR"
+  },
+  {
+    "package": "RscDRS",
+    "url": "https://github.com/BiocStaging/RscDRS"
   }
 ]
