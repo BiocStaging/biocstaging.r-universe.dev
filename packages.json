@@ -220,10 +220,6 @@
     "url": "https://github.com/BiocStaging/Tweedieverse"
   },
   {
-    "package": "BamScaleR",
-    "url": "https://github.com/BiocStaging/BamScaleR"
-  },
-  {
     "package": "OmicsChrono",
     "url": "https://github.com/BiocStaging/OmicsChrono"
   },
