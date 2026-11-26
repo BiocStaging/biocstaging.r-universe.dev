@@ -12,10 +12,6 @@
     "url": "https://github.com/BiocStaging/GO.ddb"
   },
   {
-    "package": "TxParq.Hs.gencode.v49",
-    "url": "https://github.com/BiocStaging/TxParq.Hs.gencode.v49"
-  },
-  {
     "package": "PlantTxDbHub",
     "url": "https://github.com/BiocStaging/PlantTxDbHub"
   },
