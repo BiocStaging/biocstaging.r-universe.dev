@@ -340,10 +340,6 @@
     "url": "https://github.com/BiocStaging/omicslog"
   },
   {
-    "package": "spiSEE",
-    "url": "https://github.com/BiocStaging/spiSEE"
-  },
-  {
     "package": "CPTACdata",
     "url": "https://github.com/BiocStaging/CPTACdata"
   },
